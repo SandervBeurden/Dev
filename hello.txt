@@ -1,2 +1,3 @@
 hello this is a test
 appended text
+this is good
